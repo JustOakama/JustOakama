@@ -18,6 +18,6 @@
 жив0д.еры; политики; челы, романтизирующие инц3ст, псих расстройства, педо-, нимфо-, зоо-, копро-, уро-, рапто- филию; небинарные личности; феминистки
  <hr>
  <h1>
- удачи!
+<p align="center">удачи!/p>
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm11bXdhaWlkOWFkNnlqemw2amxnZGQ5OWFvcTBwdnZ6MXhhZXJ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDuIf6kyO51MYgGUnw/giphy.gif" width="400"/>
